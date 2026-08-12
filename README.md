@@ -2,6 +2,8 @@
 
 Founder & Senior Software Engineer.
 
+🌐 **Portfolio:** [hiteshvaryani.xyz](https://www.hiteshvaryani.xyz/)  
+
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
@@ -44,15 +46,18 @@ Founder & Senior Software Engineer.
 
 ## Open Source
 
-[![Amazon SP-API](https://img.shields.io/badge/Amazon_SP--API-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://github.com/timslabs/laravel-amazon-spapi)
-[![Flipkart Laravel](https://img.shields.io/badge/Flipkart_Laravel-2874F0?style=flat-square&logo=flipkart&logoColor=white)](https://github.com/timslabs/laravel-flipkart-seller-api)
-[![Foodlite](https://img.shields.io/badge/Foodlite-F97316?style=flat-square&logo=foodpanda&logoColor=white)](https://github.com/timslabs/foodlite)
-[![Zomato SDK](https://img.shields.io/badge/Zomato_SDK-E23744?style=flat-square&logo=zomato&logoColor=white)](https://github.com/timslabs/zomato-php-sdk)
+[![Shiprocket Go SDK](https://img.shields.io/badge/Shiprocket_Go_SDK-5A45FF?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/github.com/timslabs/shiprocket-go)
+[![Laravel Shiprocket](https://img.shields.io/badge/Laravel_Shiprocket-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://packagist.org/packages/tims/laravel-shiprocket)
 
-[![Flipkart PHP SDK](https://img.shields.io/badge/Flipkart_PHP_SDK-2874F0?style=flat-square&logo=flipkart&logoColor=white)](https://github.com/timslabs/flipkart-seller-api-php)
-[![Amazon PA-API](https://img.shields.io/badge/Amazon_PA--API-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://github.com/timslabs/laravel-paapi)
-[![Zomato POS](https://img.shields.io/badge/Zomato_POS-E23744?style=flat-square&logo=zomato&logoColor=white)](https://github.com/timslabs/zomato-pos-php-sdk)
-[![Amazon Creators API](https://img.shields.io/badge/Amazon_Creators_API-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://github.com/timslabs/amazon-creatorsapi-php-sdk)
+[![Amazon SP-API](https://img.shields.io/badge/Amazon_SP--API-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://packagist.org/packages/tims/laravel-amazon-spapi)
+[![Flipkart Laravel](https://img.shields.io/badge/Flipkart_Laravel-2874F0?style=flat-square&logo=flipkart&logoColor=white)](https://packagist.org/packages/tims/laravel-flipkart-seller-api)
+[![Foodlite](https://img.shields.io/badge/Foodlite-F97316?style=flat-square&logo=foodpanda&logoColor=white)](https://packagist.org/packages/tims/foodlite)
+[![Zomato SDK](https://img.shields.io/badge/Zomato_SDK-E23744?style=flat-square&logo=zomato&logoColor=white)](https://packagist.org/packages/tims/zomato-php-sdk)
+
+[![Flipkart PHP SDK](https://img.shields.io/badge/Flipkart_PHP_SDK-2874F0?style=flat-square&logo=flipkart&logoColor=white)](https://packagist.org/packages/tims/flipkart-seller-api-php)
+[![Amazon PA-API](https://img.shields.io/badge/Amazon_PA--API-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://packagist.org/packages/tims/laravel-paapi)
+[![Zomato POS](https://img.shields.io/badge/Zomato_POS-E23744?style=flat-square&logo=zomato&logoColor=white)](https://packagist.org/packages/tims/zomato-pos-php-sdk)
+[![Amazon Creators API](https://img.shields.io/badge/Amazon_Creators_API-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://packagist.org/packages/tims/amazon-creatorsapi-php-sdk)
   
 ## Connect
 
